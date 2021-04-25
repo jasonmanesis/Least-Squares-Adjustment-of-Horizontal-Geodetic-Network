@@ -22,4 +22,14 @@ Precision and accuracy determination of horizontal geodetic network using observ
 | l<sub>11</sub>  |b<sub>CED</sub>  | 112.9705                |+/-25          | 
 | l<sub>12</sub>  |b<sub>BEC</sub>  | 64.1595                 |+/-25          | 
 
-## Observations
+ Distances:                                                                  
+ 
+| Measurment code | Measurment name | Measurment value (m) | Variance (m)  |  
+|:---------------:|:---------------:|:--------------------:|:-------------:|
+| l<sub>13</sub>  |D<sub>AB</sub>   | 490.249              |+/-0.012       |    
+| l<sub>14</sub>  |D<sub>AE</sub>   | 220.725              |+/-0.012       | 
+| l<sub>15</sub>  |D<sub>DC</sub>   | 791.552              |+/-0.012       | 
+| l<sub>16</sub>  |D<sub>EC</sub>   | 659.535              |+/-0.012       | 
+
+
+## Solutions
