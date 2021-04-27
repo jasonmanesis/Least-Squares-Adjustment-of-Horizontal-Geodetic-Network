@@ -3,7 +3,7 @@ Precision and accuracy determination of horizontal geodetic network using observ
 
 ## Horizontal Geodetic Network Geometry.
 ![](/Geodetic_Network_Geometry.png)
-
+ 
 ## Observations and their Corresponding Variances.
 
  Angles:                                                                  
