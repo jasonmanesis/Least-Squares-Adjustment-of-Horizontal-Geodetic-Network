@@ -31,6 +31,3 @@ Precision and accuracy determination of horizontal geodetic network using observ
 | l<sub>14</sub>   |D<sub>AE</sub>    | 220.725               |+/- 0.012             | 
 | l<sub>15</sub>   |D<sub>DC</sub>    | 791.552               |+/- 0.012             | 
 | l<sub>16</sub>   |D<sub>EC</sub>    | 659.535               |+/- 0.012             | 
-
-
-## Solutions
