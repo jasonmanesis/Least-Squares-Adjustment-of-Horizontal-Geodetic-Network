@@ -1,5 +1,5 @@
 # Least Squares Adjustment of Horizontal Geodetic Network
-Precision and accuracy determination of horizontal geodetic network using observation equation method (the method of parameters or the method of indirect observations) of least squares technique. This project is based on the exercise 5 of the 
+Precision and accuracy determination of horizontal geodetic network using observation equation method (the method of parameters or the method of indirect observations) of least squares technique. This project is based on the exercise 5 of the course: "Theory of Errors and Adjustments II" of School of Rural and Surveying Engineering of N.T.U.A.
 
 ## Horizontal Geodetic Network Geometry.
 ![](/Geodetic_Network_Geometry.png)
