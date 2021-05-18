@@ -1,3 +1,6 @@
+[![Minimum External Constraints](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JasonManesis/Least-Squares-Adjustment-of-Horizontal-Geodetic-Network/blob/main/Minimum_External_Constraints.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JasonManesis/Least-Squares-Adjustment-of-Horizontal-Geodetic-Network/blob/main/Minimum_Internal_Constraints.ipynb)
+
 # Least Squares Adjustment of Horizontal Geodetic Network
 Precision and accuracy determination of horizontal geodetic network using observation equation method (the method of parameters or the method of indirect observations) of least squares technique. This project is based on the exercise 5 of the course: "Theory of Errors and Adjustments II" of School of Rural and Surveying Engineering of N.T.U.A.
 
